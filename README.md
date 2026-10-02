@@ -6,8 +6,8 @@
 
 <hr>
     <section id = "bb">
-        <h1> Email </h1>
-            <p> alswp1342@gmail.com </p>
+        <h1> 연락처 </h1>
+            <p> Email : alswp1342@gmail.com </p>
 <hr>
     <section id = "cc">
         <h1> 기술스택 </h1>
@@ -15,3 +15,5 @@
             <p>- Python -</p><br>
             <p><img src="SQL.PNG" width="50"></p>
             <p>- SQL -</p>
+
+<p><button value="My site"><a href ="https://jiminje.github.io/my-website/"></p>
