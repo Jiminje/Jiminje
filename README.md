@@ -15,5 +15,5 @@
             <p>- Python -</p><br>
             <p><img src="SQL.PNG" width="50"></p>
             <p>- SQL -</p>
-
-<p><button value="My site"><a href ="https://jiminje.github.io/my-website/"></p>
+<hr>
+<p><a href ="https://jiminje.github.io/my-website/"><button value="My site"></a></p>
