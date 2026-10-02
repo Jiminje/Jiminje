@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'안녕하십니까 저는 지민제입니다.&fontSize=40&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Jiminje!%20👋&fontSize=40&animation=fadeIn" width="100%"/>
 </div>
 
 <br>
@@ -10,9 +10,9 @@
 
 안녕하십니까! 성장을 열망하는 개발자 **지민제**입니다.
 
-* 🎓 **Affiliation**: 대전보건대학교 컴퓨터정보학과 (4학년 재학 중)
-* 💡 **Goal**: 부족한 점을 채워가며 꾸준히 성장하는 개발자가 되는 것
-* 🌐 **Personal Website**: <a href="https://jiminje.github.io/my-website/" target="_blank"><img src="https://img.shields.io/badge/My%20Website-121013?style=flat-square&logo=github&logoColor=white"/></a>
+*  **현재**: 대전보건대학교 컴퓨터정보학과 (4학년 재학 중)
+*  **목표**: 부족한 점을 채워가며 꾸준히 성장하는 개발자가 되는 것
+*  **나의 웹사이트**: <a href="https://jiminje.github.io/my-website/" target="_blank"><img src="https://img.shields.io/badge/My%20Website-121013?style=flat-square&logo=github&logoColor=white"/></a>
 
 ---
 
@@ -21,9 +21,8 @@
 
 ### Languages & Databases
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="Python.PNG"/>
+  <img src="SQL.PNG"/>
 </p>
 
 ---
@@ -49,8 +48,3 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white"/>
   </a>
 </p>
-
-<div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=jiminje&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
