@@ -16,4 +16,4 @@
             <p><img src="SQL.PNG" width="50"></p>
             <p>- SQL -</p>
 <hr>
-<p><a href ="https://jiminje.github.io/my-website/"><button value="My site"></a></p>
+    <p><a href ="https://jiminje.github.io/my-website/">MY SITE</a></p>
