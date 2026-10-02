@@ -1,19 +1,56 @@
-<main>
-    <section id = "aa" >
-        <h1> 자기소개 </h1>
-            <p> 안녕하십니까 개발자를 꿈꾸고있는 지민제입니다.🙋‍♂️👋</p>
-            <p> 대전보건대학교 컴퓨터정보학과 4학년 재학중이며, 부족하지만 많이 배우며 성장하고싶습니다.</p>
+<!-- Header Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Jiminje!%20👋&fontSize=40&animation=fadeIn" width="100%"/>
+</div>
 
-<hr>
-    <section id = "bb">
-        <h1> 연락처 </h1>
-            <p> Email : alswp1342@gmail.com </p>
-<hr>
-    <section id = "cc">
-        <h1> 기술스택 </h1>
-            <p><img src="Python.PNG" width="70"></p>
-            <p>- Python -</p><br>
-            <p><img src="SQL.PNG" width="50"></p>
-            <p>- SQL -</p>
-<hr>
-    <p><a href ="https://jiminje.github.io/my-website/">MY SITE</a></p>
+<br>
+
+<!-- About Me -->
+## 🙋‍♂️ About Me
+
+안녕하십니까! 성장을 열망하는 개발자 **지민제**입니다.
+
+* 🎓 **Affiliation**: 대전보건대학교 컴퓨터정보학과 (4학년 재학 중)
+* 💡 **Goal**: 부족한 점을 채워가며 꾸준히 성장하는 개발자가 되는 것
+* 🌐 **Personal Website**: <a href="https://jiminje.github.io/my-website/" target="_blank"><img src="https://img.shields.io/badge/My%20Website-121013?style=flat-square&logo=github&logoColor=white"/></a>
+
+---
+
+<!-- Tech Stack -->
+## 🛠 Tech Stack
+
+### Languages & Databases
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+---
+
+<!-- GitHub Stats -->
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jiminje&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiminje&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</div>
+
+<br>
+
+<!-- Contact -->
+## 📬 Contact & Connect
+
+<p align="center">
+  <a href="mailto:alswp1342@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://jiminje.github.io/my-website/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=jiminje&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
