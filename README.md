@@ -7,3 +7,8 @@
             <p>- Python -</p><br>
             <p><img src="SQL.PNG" width="50"></p>
             <p>- SQL -</p>
+        <footer>
+            <p>© 2026 지민제 </p>
+            <p>Phone : 010 - 4482 - **** </p>
+            <p>Email : alswp1342@gmail.com</p>
+        </footer>
