@@ -21,8 +21,8 @@
 
 ### Languages & Databases
 <p>
-  <img src="Python.PNG"/>
-  <img src="SQL.PNG"/>
+  <img src="Python.PNG" width="50" height="50"/>
+  <img src="SQL.PNG" width="50" height="50"/>
 </p>
 
 ---
@@ -36,15 +36,3 @@
 </div>
 
 <br>
-
-<!-- Contact -->
-## 📬 Contact & Connect
-
-<p align="center">
-  <a href="mailto:alswp1342@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://jiminje.github.io/my-website/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white"/>
-  </a>
-</p>
