@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=안녕하세요,%20지민제입니다!%20👋&fontSize=38&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=안녕하세요,%20지민제입니다!%20 &fontSize=38&animation=fadeIn" width="100%"/>
 </div>
 
 <br>
